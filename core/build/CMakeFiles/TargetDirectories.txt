@@ -1,0 +1,3 @@
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/core/build/CMakeFiles/vrs-core.dir
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/core/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hudeming/Desktop/TianFuKang/OVRKernel/core/build/CMakeFiles/ZERO_CHECK.dir
